@@ -61,7 +61,7 @@ Topic: GitHub
 
 ## Team Member 1
 
-Topic:
+Topic: Java Script (JS)
 
 ## Team Member 2
 
