@@ -57,7 +57,7 @@ Topic: Enjoy introducing web technologies to others
 
 ## B - Assistant
 
-Topic:
+Topic: GitHub
 
 ## Team Member 1
 
