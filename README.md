@@ -1,4 +1,4 @@
-# 18f-07-collaboration
+## 18f-07-collaboration
 
 Shared repository to practice collaboration
 
@@ -53,7 +53,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-Topic: Enjoy introducing web technologies to others
+Topic: Enjoy introducing web technologies to others and learning new ones
 
 ## B - Assistant
 
@@ -61,7 +61,7 @@ Topic: GitHub
 
 ## Team Member 1
 
-Topic:
+Topic: Java Script (JS)
 
 ## Team Member 2
 
@@ -69,7 +69,7 @@ Topic:
 
 ## Team Member 3
 
-Topic:
+Topic: html,css
 
 ## Team Member 4
 
@@ -78,7 +78,7 @@ Topic:
 ## Team Member 5
 
 Topic:
-
+I love to attend webapps class.
 ## Team Member 6
 
 Topic:
@@ -101,7 +101,7 @@ Topic:
 
 ## Team Member 11
 
-Topic:
+Topic:CSS
 
 ## Team Member 12
 
@@ -137,7 +137,7 @@ Topic:
 
 ## Team Member 20
 
-Topic:
+Topic: I like to code on JavaScirpt
 
 ## Team Member 21
 
@@ -145,11 +145,11 @@ Topic:
 
 ## Team Member 22
 
-Topic:
+Topic: i love coding 
 
 ## Team Member 23
 
-Topic:
+Topic: i like coding on the server side
 
 ## Team Member 24
 
