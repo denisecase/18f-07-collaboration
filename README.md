@@ -1,4 +1,4 @@
-# 18f-07-collaboration
+## 18f-07-collaboration
 
 Shared repository to practice collaboration
 
@@ -61,11 +61,11 @@ Topic: GitHub
 
 ## Team Member 1
 
-Topic:
+Topic: Java Script (JS)
 
 ## Team Member 2
 
-Topic:
+Topic: Java script is a good web application 
 
 ## Team Member 3
 
@@ -102,7 +102,7 @@ I'm Karthik Reddy
 
 ## Team Member 11
 
-Topic:
+Topic:CSS
 
 ## Team Member 12
 
@@ -138,7 +138,7 @@ Topic:
 
 ## Team Member 20
 
-Topic:
+Topic: I like to code on JavaScirpt
 
 ## Team Member 21
 
@@ -146,7 +146,7 @@ Topic:
 
 ## Team Member 22
 
-Topic:i love coding 
+Topic: i love coding 
 
 ## Team Member 23
 
@@ -154,11 +154,11 @@ Topic: i like coding on the server side
 
 ## Team Member 24
 
-Topic:
+Topic:  Web Apps Project
 
 ## Team Member 25
 
-Topic: Web Apps Project
+Topic:
 
 ## Team Member 26
 
