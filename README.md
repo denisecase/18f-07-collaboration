@@ -89,9 +89,10 @@ Topic:
 
 ## Team Member 8
 
-Topic:
+Topic: Web design
 
 ## Team Member 9
+I like to attend the class every time.
 
 Topic:
 
@@ -142,7 +143,7 @@ Topic: I like to code on JavaScirpt
 
 ## Team Member 21
 
-Topic:
+Topic:  CSS is great for customisation in HTML.
 
 ## Team Member 22
 
