@@ -1,4 +1,4 @@
-# 18f-07-collaboration
+## 18f-07-collaboration
 
 Shared repository to practice collaboration
 
@@ -61,7 +61,7 @@ Topic: GitHub
 
 ## Team Member 1
 
-Topic:
+Topic: Java Script (JS)
 
 ## Team Member 2
 
@@ -153,11 +153,11 @@ Topic: i like coding on the server side
 
 ## Team Member 24
 
-Topic:
+Topic:  Web Apps Project
 
 ## Team Member 25
 
-Topic: Web Apps Project
+Topic:
 
 ## Team Member 26
 
