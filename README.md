@@ -98,7 +98,7 @@ Topic:
 ## Team Member 10
 
 Topic: CSS Animation
-I'm Karthik
+I'm Karthik Reddy
 
 ## Team Member 11
 
