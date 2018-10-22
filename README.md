@@ -53,7 +53,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-Topic: Enjoy introducing web technologies to others
+Topic: Enjoy introducing web technologies to others and learning new ones
 
 ## B - Assistant
 
@@ -69,7 +69,7 @@ Topic:
 
 ## Team Member 3
 
-Topic:
+Topic: html,css
 
 ## Team Member 4
 
@@ -78,7 +78,7 @@ Topic:
 ## Team Member 5
 
 Topic:
-
+I love to attend webapps class.
 ## Team Member 6
 
 Topic:
@@ -145,7 +145,7 @@ Topic:
 
 ## Team Member 22
 
-Topic:
+Topic:i love coding 
 
 ## Team Member 23
 
