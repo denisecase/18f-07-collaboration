@@ -98,7 +98,9 @@ Topic:
 
 ## Team Member 10
 
-Topic:
+Topic: CSS Animation
+Hai
+I'm Karthik Reddy Bijam
 
 ## Team Member 11
 
@@ -114,7 +116,7 @@ Topic:
 
 ## Team Member 14
 
-Topic:
+Topic:Starting to vue.js
 
 ## Team Member 15
 
@@ -125,9 +127,9 @@ Topic:Hi every one.
 Topic:
 
 ## Team Member 17
-
-Topic:
-
+Akshara
+Topic:VueJS
+s
 ## Team Member 18
 
 Topic:
@@ -139,6 +141,7 @@ Topic: HTML
 
 ## Team Member 20
 
+Ankit Prakashs
 Topic: I like to code on JavaScirpt
 
 ## Team Member 21
