@@ -65,7 +65,7 @@ Topic: Java Script (JS)
 
 ## Team Member 2
 
-Topic:
+Topic: Java script is a good web application 
 
 ## Team Member 3
 
@@ -81,7 +81,7 @@ Topic:
 I love to attend webapps class.
 ## Team Member 6
 
-Topic:
+Topic: Html,Github
 
 ## Team Member 7
 
@@ -89,7 +89,7 @@ Topic:
 
 ## Team Member 8
 
-Topic:
+Topic: Web design
 
 ## Team Member 9
 I like to attend the class every time.
