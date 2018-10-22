@@ -92,6 +92,7 @@ Topic:
 Topic:
 
 ## Team Member 9
+I like to attend the class every time.
 
 Topic:
 
