@@ -69,7 +69,7 @@ Topic:
 
 ## Team Member 3
 
-Topic:
+Topic: html,css
 
 ## Team Member 4
 
@@ -78,7 +78,7 @@ Topic:
 ## Team Member 5
 
 Topic:
-
+I love to attend webapps class.
 ## Team Member 6
 
 Topic:
@@ -145,11 +145,11 @@ Topic:
 
 ## Team Member 22
 
-Topic:
+Topic:i love coding 
 
 ## Team Member 23
 
-Topic:
+Topic: i like coding on the server side
 
 ## Team Member 24
 
@@ -157,7 +157,7 @@ Topic:
 
 ## Team Member 25
 
-Topic:
+Topic: Web Apps Project
 
 ## Team Member 26
 
