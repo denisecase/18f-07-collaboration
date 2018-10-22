@@ -53,7 +53,7 @@ Think of a favorite topic in web apps. Share this topic under your heading.
 
 ## A - Instructor
 
-Topic: Enjoy introducing web technologies to others
+Topic: Enjoy introducing web technologies to others and learning new ones
 
 ## B - Assistant
 
