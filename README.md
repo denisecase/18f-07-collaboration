@@ -65,7 +65,7 @@ Topic: Java Script (JS)
 
 ## Team Member 2
 
-Topic:
+Topic: Java script is a good web application 
 
 ## Team Member 3
 
@@ -153,11 +153,11 @@ Topic: i like coding on the server side
 
 ## Team Member 24
 
-Topic:
+Topic:  Web Apps Project
 
 ## Team Member 25
 
-Topic: Web Apps Project
+Topic:
 
 ## Team Member 26
 
