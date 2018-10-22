@@ -113,7 +113,7 @@ Topic:
 
 ## Team Member 14
 
-Topic:
+Topic:Starting to vue.js
 
 ## Team Member 15
 
