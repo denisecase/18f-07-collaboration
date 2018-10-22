@@ -149,7 +149,7 @@ Topic:
 
 ## Team Member 23
 
-Topic:
+Topic: i like coding on the server side
 
 ## Team Member 24
 
@@ -157,7 +157,7 @@ Topic:
 
 ## Team Member 25
 
-Topic:
+Topic: Web Apps Project
 
 ## Team Member 26
 
