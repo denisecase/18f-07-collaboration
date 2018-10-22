@@ -81,7 +81,7 @@ Topic:
 I love to attend webapps class.
 ## Team Member 6
 
-Topic:
+Topic: Html,Github
 
 ## Team Member 7
 
@@ -89,9 +89,10 @@ Topic:
 
 ## Team Member 8
 
-Topic:
+Topic: Web design
 
 ## Team Member 9
+I like to attend the class every time.
 
 Topic:
 
