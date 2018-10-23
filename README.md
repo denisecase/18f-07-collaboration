@@ -61,7 +61,7 @@ Topic: GitHub
 
 ## Team Member 1
 
-Topic: Java Script (JS)
+Topic: JavaScript(JS)
 
 ## Team Member 2
 
@@ -112,7 +112,7 @@ Topic:
 
 ## Team Member 13
 
-Topic:
+Topic: I LIKE THIS CLASS
 
 ## Team Member 14
 
@@ -243,3 +243,7 @@ Topic:
 ## Team Member 45
 
 Topic:
+
+## Team Member 46
+Rakesh Avirineni 
+Topic: css
