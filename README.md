@@ -104,7 +104,7 @@ I'm Karthik Reddy Bijam
 
 ## Team Member 11
 
-Topic:CSS
+Topic:CSS.
 
 ## Team Member 12
 
