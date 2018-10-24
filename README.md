@@ -127,7 +127,7 @@ Indra
 Topic:VueJs
 
 ## Team Member 17
-Akshara Gurram
+Akshara Reddy Gurram
 Topic:VueJS
 
 ## Team Member 18
