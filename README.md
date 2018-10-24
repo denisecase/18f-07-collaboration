@@ -248,5 +248,5 @@ Topic:
 Rakesh Avirineni 
 Topic: css
 ## Team Member 47
-<p>Srikar Patel</p>
+Srikar Patel
 Topic: css,Bootstrap
