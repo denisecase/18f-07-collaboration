@@ -85,7 +85,7 @@ Topic: Html,Github
 
 ## Team Member 7
 
-Topic:
+Topic:HTML, CSS
 
 ## Team Member 8
 
