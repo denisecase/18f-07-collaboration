@@ -61,7 +61,7 @@ Topic: GitHub
 
 ## Team Member 1
 
-Topic: Java Script (JS)
+Topic: JavaScript(JS)
 
 ## Team Member 2
 
@@ -98,7 +98,9 @@ Topic:
 
 ## Team Member 10
 
-Topic:
+Topic: CSS Animation
+Hai
+I'm Karthik Reddy Bijam
 
 ## Team Member 11
 
@@ -110,19 +112,19 @@ Topic:
 
 ## Team Member 13
 
-Topic:
+Topic: I LIKE THIS CLASS
 
 ## Team Member 14
 
-Topic:
+Topic:Starting to vue.js
 
 ## Team Member 15
 
-Topic:
+Topic:Hi every one.
 
 ## Team Member 16
-
-Topic:
+Indra 
+Topic:VueJs
 
 ## Team Member 17
 Akshara
@@ -130,7 +132,7 @@ Topic:VueJS
 s
 ## Team Member 18
 
-Topic:
+Topic:MAdhavaramSneha
 
 ## Team Member 19
 Pappu Sah
@@ -155,7 +157,7 @@ Topic: i love coding
 Topic: i like coding on the server side
 
 ## Team Member 24
-
+Rayaan Ahmed
 Topic:  Web Apps Project
 
 ## Team Member 25
@@ -241,3 +243,7 @@ Topic:
 ## Team Member 45
 
 Topic:
+
+## Team Member 46
+Rakesh Avirineni 
+Topic: css
