@@ -131,7 +131,7 @@ Akshara
 Topic:VueJS
 s
 ## Team Member 18
-i like web apps
+i like java script 
 Topic:Madhavaram Sneha..
 
 ## Team Member 19
