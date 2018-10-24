@@ -125,7 +125,7 @@ Topic:
 Topic:
 
 ## Team Member 17
-Akshara reddy 
+Akshara Gurram
 Topic:VueJS
 
 ## Team Member 18
