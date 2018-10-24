@@ -61,7 +61,7 @@ Topic: GitHub
 
 ## Team Member 1
 
-Topic: Java Script (JS)
+Topic: JavaScript(JS)
 
 ## Team Member 2
 
@@ -112,7 +112,7 @@ Topic:
 
 ## Team Member 13
 
-Topic:
+Topic: I LIKE THIS CLASS
 
 ## Team Member 14
 
@@ -123,8 +123,8 @@ Topic:Starting to vue.js
 Topic:Hi every one.
 
 ## Team Member 16
-
-Topic:
+Indra 
+Topic:VueJs
 
 ## Team Member 17
 Akshara
@@ -157,7 +157,7 @@ Topic: i love coding
 Topic: i like coding on the server side
 
 ## Team Member 24
-
+Rayaan Ahmed
 Topic:  Web Apps Project
 
 ## Team Member 25
@@ -243,3 +243,10 @@ Topic:
 ## Team Member 45
 
 Topic:
+
+## Team Member 46
+Rakesh Avirineni 
+Topic: css
+## Team Member 47
+Srikar Patel
+Topic: css,Bootstrap
