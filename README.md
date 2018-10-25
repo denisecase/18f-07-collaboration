@@ -1,4 +1,4 @@
-## 18f-07-collaboration
+## 18f-07- collaboration
 
 Shared repository to practice collaboration
 
@@ -61,7 +61,7 @@ Topic: GitHub
 
 ## Team Member 1
 
-Topic: Java Script (JS)
+Topic: JavaScript(JS)
 
 ## Team Member 2
 
@@ -73,7 +73,7 @@ Topic: html,css
 
 ## Team Member 4
 
-Topic:
+Topic: Sai krishna 
 
 ## Team Member 5
 
@@ -85,7 +85,7 @@ Topic: Html,Github
 
 ## Team Member 7
 
-Topic:
+Topic:HTML, CSS
 
 ## Team Member 8
 
@@ -105,7 +105,7 @@ I updated the readme.
 
 ## Team Member 11
 
-Topic:CSS
+Topic:CSS.
 
 ## Team Member 12
 
@@ -113,27 +113,27 @@ Topic:
 
 ## Team Member 13
 
-Topic:
+Topic: I LIKE THIS CLASS
 
 ## Team Member 14
 
-Topic:
+Topic:Starting to vue.js
 
 ## Team Member 15
 
-Topic:
+Topic:Hi every one.
 
 ## Team Member 16
-
-Topic:
+Indra 
+Topic:VueJs
 
 ## Team Member 17
-Akshara
+Akshara Gurram
 Topic:VueJS
-s
-## Team Member 18
 
-Topic:
+## Team Member 18
+i like java script 
+Topic:Madhavaram Sneha..
 
 ## Team Member 19
 Pappu Sah
@@ -158,7 +158,7 @@ Topic: i love coding
 Topic: i like coding on the server side
 
 ## Team Member 24
-
+Rayaan Ahmed
 Topic:  Web Apps Project
 
 ## Team Member 25
@@ -199,7 +199,8 @@ Topic:
 
 ## Team Member 34
 
-Topic:
+Topic: bootstrap
+name : Aakash Valluru
 
 ## Team Member 35
 
@@ -234,7 +235,7 @@ Topic:
 Topic:
 
 ## Team Member 43
-
+I like to attend the webapps class everytime.
 Topic:
 
 ## Team Member 44
@@ -244,3 +245,10 @@ Topic:
 ## Team Member 45
 
 Topic:
+
+## Team Member 46
+Rakesh Avirineni 
+Topic: css
+## Team Member 47
+Srikar Patel
+Topic: css,Bootstrap
