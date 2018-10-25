@@ -120,7 +120,7 @@ Topic:Starting to vue.js
 
 ## Team Member 15
 
-Topic:Hi every one.
+Topic:Hi every one !
 
 ## Team Member 16
 Indra 
