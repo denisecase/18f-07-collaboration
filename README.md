@@ -100,7 +100,8 @@ Topic:
 
 Topic: CSS Animation
 Hai
-I'm Karthik Reddy Bijam
+I'm Karthik.
+I updated the readme.
 
 ## Team Member 11
 
