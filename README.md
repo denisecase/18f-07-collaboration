@@ -73,11 +73,7 @@ Topic: html,css
 
 ## Team Member 4
 
-<<<<<<< HEAD
 Topic:java script.
-=======
-Topic: Sai krishna 
->>>>>>> 7d6ab41a9f7c66b8e36923f00ea60d39fc5c2da8
 
 ## Team Member 5
 
@@ -104,7 +100,7 @@ Topic:
 
 Topic: CSS Animation
 Hai
-I updated the readme.
+I'm Karthik Reddy Bijam
 
 ## Team Member 11
 
@@ -112,7 +108,7 @@ Topic:CSS.
 
 ## Team Member 12
 
-Topic: I like html!!
+Topic:
 
 ## Team Member 13
 
@@ -124,7 +120,7 @@ Topic:Starting to vue.js
 
 ## Team Member 15
 
-Topic:Hi every one !
+Topic:Hi every one.
 
 ## Team Member 16
 Indra 
@@ -231,11 +227,11 @@ Topic:
 
 ## Team Member 41
 
-Topic: I like js
+Topic:
 
 ## Team Member 42
 
-Topic: I like css
+Topic:
 
 ## Team Member 43
 I like to attend the webapps class everytime.
